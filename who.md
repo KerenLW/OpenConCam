@@ -112,7 +112,7 @@ Surname: Limor-Waisberg
 Short profile: Enabling scientific literacy and promote a more
 	           accessible, inclusive, and collaborative science.  
 Open tags: Open mind, open research, open access, open science  
-www: Literacytool.com  
+www: http://literacytool.com  
 email: keren@literacytool.com  
 twitter: @TheLiteracyTool  
 GitHub: KerenLW  
